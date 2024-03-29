@@ -11,7 +11,7 @@
     
     <div>
         <div class="header">
-            About Us
+            About Usu
         </div>
     </div>
 
